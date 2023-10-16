@@ -1,6 +1,7 @@
 *.pyc
 *.pyo
 *.pyd
+*.png
 .DS_Store
 .idea
 weights
